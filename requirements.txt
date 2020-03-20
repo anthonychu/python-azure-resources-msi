@@ -1,0 +1,5 @@
+azure-functions
+azure-common
+msrestazure
+azure-mgmt-resource
+azure-cli-core
