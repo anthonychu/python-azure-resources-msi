@@ -1,5 +1,4 @@
 azure-functions
-azure-common
-msrestazure
-azure-mgmt-resource
-azure-cli-core
+azure-identity>=1.4.0b6
+azure-mgmt-resource>=15.0.0b1
+azure-core<2.0.0,>=1.7.0.dev
